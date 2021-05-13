@@ -1,0 +1,10 @@
+#image_holder_thingy {
+    background-color: #fff8f8;
+    border-radius: 30px;
+    width: 50%;
+}
+
+img{
+    width: 200px;
+    border-radius: 20px;
+}
